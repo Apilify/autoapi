@@ -16,7 +16,7 @@ new AutoApi("NewYorkData")
   pod:true,
   localOutput:"/User/lanethompson/apilify/proj"
 }))
-.logFile()
+.logFile({})
 .options({})
 .mock()
 .invoke()

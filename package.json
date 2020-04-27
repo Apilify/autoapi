@@ -22,7 +22,9 @@
     "request": "^2.88.2"
   },
   "_moduleAliases": {
-    "@root": "dist"
+    "@root": "dist",
+    "@actions": "dist/actions",
+    "@frontend": "dist/frontend"
   },
   "devDependencies": {
     "@types/chai": "^4.2.9",

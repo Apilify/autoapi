@@ -15,6 +15,12 @@
     "paths": {
       "@root/*": [
         "src/*"
+      ],
+      "@actions/*": [
+        "src/actions/*"
+      ],
+      "@frontend/*": [
+        "src/frontend/*"
       ]
     }
   },

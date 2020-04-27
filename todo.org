@@ -1,0 +1,31 @@
+* TODO build fetch and process
+* TODO add support for custom remote handler
+* TODO combine and parse responses
+* TODO build type inference
+* TODO build subtype inference
+* TODO build (find) logger
+* TODO build mocker
+* TODO build apilify.yml intermediary
+* TODO build frontend auto push
+
+# Swift
+* TODO build prototype
+* TODO build types
+* TODO build wrapper
+* TODO build packager for swift packages
+* TODO build XCTest integration
+
+# Kotlin
+* TODO explore requirements
+* TODO build prototype
+* TODO build types
+* TODO build wrapper
+* TODO build packager for gradle
+* TODO build test integration
+
+# Typescript
+* TODO build prototype
+* TODO build types
+* TODO build wrapper
+* TODO build packager for npm
+* TODO build mocha/chai integration
